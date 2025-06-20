@@ -2,14 +2,14 @@
   languageName = "English"
   languageCode = "en"
   weight = 2
-  title = "Chirpy"
+  title = "Stochastic Waltz"
   [en.params]
-    tagline = "A text-focused blog theme"
+    tagline = "To Randomness, And The Wanderers Fooled By It"
 
 [zh-CN]
   languageName = "中文"
   languageCode = "zh-CN"
   weight = 1
-  title = "Chirpy"
+  title = "Stochastic Waltz"
   [zh-CN.params]
     tagline = "一个专注于文本的博客主题"
